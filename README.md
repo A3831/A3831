@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A3831&layout=compact)
+
 <!--
 **A3831/A3831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
