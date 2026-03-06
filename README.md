@@ -2,10 +2,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A3831&layout=compact)
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on several offline game exploits
-- 🌱 I’m currently learning C++ and reverse engineering 
-- 👯 I’m looking to collaborate on any project if you show good experience
-- 🤔 I’m looking for help with exploit creation
-- 📫 You can reach me on Discord and my username is "angeleslover."
+- 🔭 Currently working on small offline game projects and experiments  
+- 🌱 Learning **C++** and **reverse engineering**  
+- 👯 Open to collaborating on interesting projects with experienced developers  
+- 🤔 Always looking to learn more about low-level programming  
+- 📫 Reach me on Discord: **angeleslover.**
